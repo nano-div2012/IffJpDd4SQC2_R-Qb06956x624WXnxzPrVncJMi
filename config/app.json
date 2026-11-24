@@ -1,6 +1,10 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
-  "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "appName": "WEB2APK",
+  "packageName": "com.web2apk.web2apkbfcd",
+  "orientation": "portrait",
+  "permissions": [
+    "notification",
+    "location",
+    "wake_lock"
+  ]
 }
